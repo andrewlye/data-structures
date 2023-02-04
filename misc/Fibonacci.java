@@ -112,7 +112,7 @@ public class Fibonacci {
 
         return fib;
     }
-    public static void main(String[] args) // main method
+    public static void main(String[] args) // main method with some example code
     {
         System.out.println("The 12th fibonacci number is " + fibIteration(12));
         Fibonacci fibArray = new Fibonacci(10); // creates new array filled with n fibonacci numbers
